@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Cedrickkouek
-- 👀 I’m Software Engineering student
+- 👀 A Software Engineering student
 - 🌱 I've a good mastery of Java Backend developement (SpringBoot) coupled React js on the frontend side.
 - 📫 How to reach me ? You can reach through my email adresse kouekpro@gmail.com or through my linkedin account: https://www.linkedin.com/in/cedrick-kouekam-320a06178/
 
