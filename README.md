@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Cedrickkouek
-- 👀 I’m interested in frontend web development
-- 🌱 I’m currently learning Javascript/react js
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ? You can reach through my email adresse cedrickfekou@gmail.com or through my linkedin account: cedrickkouekdev
+- 👀 I’m Software Engineering student
+- 🌱 I've a good mastery of Java Backend developement (SpringBoot) coupled React js on the frontend side.
+- 📫 How to reach me ? You can reach through my email adresse kouekpro@gmail.com or through my linkedin account: https://www.linkedin.com/in/cedrick-kouekam-320a06178/
 
 <!---
 Cedrickkouek/Cedrickkouek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
